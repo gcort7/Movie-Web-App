@@ -1,0 +1,9 @@
+version: "3"
+services:
+  movie_app:
+    volumes: 
+      - .:/usr/src/app/
+    container_name: movie_app
+    build: .
+    ports:
+      - "3000:3000"

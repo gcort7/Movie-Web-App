@@ -1,0 +1,74 @@
+[
+  {
+   "id": 1,
+    "title": "Batman",
+    "distributor": "DC films",
+    "year": 2022,
+    "amount": "$2,787,965,087",
+    "img": {
+      "src": "media/batman.jpg",
+      "alt": "batman"
+    },
+    "ranking": 1
+  },
+  {
+    "id": 2,
+    "title": "Scream",
+    "distributor": "Spyglass Entertainment",
+    "year": 2022,
+    "amount": "$2,187,463,944",
+    "img": {
+      "src": "media/scream.jpg",
+      "alt": "scream"
+    },
+    "ranking": 2
+  },
+  {
+    "id": 3,
+    "title": "Tipos Malos",
+    "distributor": "Walt Disney Studios Motion Pictures",
+    "year": 2022,
+    "amount": "$2,068,223,624",
+    "img": {
+      "src": "media/tipos_malos.jpg",
+      "alt": "tipos_malos"
+    },
+    "ranking": 3
+  },
+  {
+    "id": 4,
+    "title": "Ganguzai Kathiawadi",
+    "distributor": "Bhansali Production",
+    "year": 2022,
+    "amount": "$2,048,359,754",
+    "img": {
+      "src": "media/ganguzai.jpg",
+      "alt": "ganguzai_kathiawadi"
+    },
+    "ranking": 4
+  },
+  {
+    "id": 5,
+    "title": "Casate Conmigo",
+    "distributor": "Universal Pictures",
+    "year": 2022,
+    "amount": "$1,671,713,208",
+    "img": {
+      "src": "media/casate_conmigo.jpg",
+      "alt": "casate_conmigo"
+    },
+    "ranking": 5
+  },
+  {
+    "id": 6,
+    "title": "Beast",
+    "distributor": "Universal Pictures",
+    "year": 2022,
+    "amount": "$1,671,713,208",
+    "img": {
+      "src": "media/beast.jpg",
+      "alt": "beast"
+    },
+    "ranking": 6
+  }
+]
